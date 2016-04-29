@@ -18,3 +18,7 @@
  "fast_open": false
 }
 # 科学上网 现成vpn
+
+https://getlantern.org/
+https://across.cm/
+http://www.ishadowsocks.net/
